@@ -80,7 +80,7 @@ def create_tf_example(group, path, label_map):
         )
         classes.append(class_index)
 
-    tf_example = tf.train.Example(
+    tf_ex.jpgample = tf.train.Example(
         features=tf.train.Features(
             feature={
                 "image/height": dataset_util.int64_feature(height),
