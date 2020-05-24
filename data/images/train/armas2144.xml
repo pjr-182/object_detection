@@ -6,8 +6,8 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>634</width>
+		<height>816</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -15,26 +15,26 @@
 		<name>gun
 </name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>0</xmin>
-			<ymin>0</ymin>
-			<xmax>0</xmax>
-			<ymax>0</ymax>
+			<xmin>163</xmin>
+			<ymin>299</ymin>
+			<xmax>270</xmax>
+			<ymax>493</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>gun
 </name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>0</xmin>
-			<ymin>0</ymin>
-			<xmax>0</xmax>
-			<ymax>0</ymax>
+			<xmin>370</xmin>
+			<ymin>314</ymin>
+			<xmax>505</xmax>
+			<ymax>562</ymax>
 		</bndbox>
 	</object>
 </annotation>
