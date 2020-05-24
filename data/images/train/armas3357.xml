@@ -12,8 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,8 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -38,8 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -51,8 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -64,8 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -77,8 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -90,8 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -103,8 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -116,8 +108,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -129,8 +120,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -142,8 +132,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -155,8 +144,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -168,8 +156,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -181,8 +168,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -194,8 +180,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -207,8 +192,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -220,8 +204,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -233,8 +216,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -246,8 +228,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -259,8 +240,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -272,8 +252,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -285,8 +264,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -298,8 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -311,8 +288,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -324,8 +300,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -337,8 +312,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -350,8 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -363,8 +336,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -376,8 +348,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -389,8 +360,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -402,8 +372,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -415,8 +384,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -428,8 +396,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -441,8 +408,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -454,8 +420,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -467,8 +432,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -480,8 +444,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -493,8 +456,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -506,8 +468,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -519,8 +480,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -532,8 +492,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -545,8 +504,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -558,8 +516,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>gun
-</name>
+		<name>gun</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
