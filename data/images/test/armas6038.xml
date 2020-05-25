@@ -35,4 +35,16 @@
 			<ymax>371</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>227</ymin>
+			<xmax>295</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
 </annotation>
